@@ -7,4 +7,6 @@
 - 🌟 Always exploring new ways to leverage technology
 - 🤝 Let's connect on [LinkedIn](https://linkedin.com/in/himanshuxd)!
 
+[![Himanshu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuxd&show_icons=true&theme=radical)](https://github.com/himanshuxd/github-readme-stats)
+
 *Transforming data into insights and ideas into intelligent, automated solutions!* 🤖
